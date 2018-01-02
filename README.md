@@ -31,6 +31,8 @@ Http Server Running on Port 8080
 
 * [NanoHttpd](https://github.com/NanoHttpd/nanohttpd) - The Webserver used 
 * [UsbSerial](https://github.com/felHR85/UsbSerial) - Android USB Serial Library
+* [LayoutIt!](http://www.layoutit.com/) - Front End Creator with Bootstrap
+* [FontAwesome](http://fontawesome.io/) - Icons for the front end
 
 ## Authors
 
